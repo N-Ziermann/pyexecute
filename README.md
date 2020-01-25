@@ -1,12 +1,12 @@
 # pyexecute
 
-**Version 1.0.0**
+**Version 1.0.3**
 
 A module for opening programs and files with python
 
 ## Installation
 
-Put the "*pyopen.py*" file into your project folder or your *PYTHONPATH* and import it like this:
+pip3 install pyexecute
 
 ```python
 import pyopen
@@ -24,11 +24,11 @@ Both of these are part of the default python install and therefore don't need to
 ## Usage
 
 ```python
-pyopen.file(path):	 # opens a file in its default editor
-    pass
+pyexecute.file(path)	# opens a file in its default editor
+    
 
-pyopen.program(path):# opens a program (for linux path is just a prorgams name e.g "obs")
-    pass
+pyexecute.program(path) # opens a program (for linux path is just a prorgams name e.g "obs")
+    
 ```
 
 ## Contributors
