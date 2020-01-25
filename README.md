@@ -9,7 +9,7 @@ A module for opening programs and files with python
 pip3 install pyexecute
 
 ```python
-import pyopen
+import pyexecute
 ```
 
 ## Dependencies
