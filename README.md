@@ -2,6 +2,8 @@
 
 **Version 1.0.0**
 
+A module for opening programs and files with python
+
 ## Installation
 
 Put the "*pyopen.py*" file into your project folder or your *PYTHONPATH* and import it like this:
